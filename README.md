@@ -2,7 +2,7 @@
 
 自动生成 Hosts 文件，科学上网
 
-[![Go Report Card](https://goreportcard.com/badge/github.com/henson/hosts)](https://goreportcard.com/report/github.com/henson/hosts)  [![Travis Status for henson/hosts](https://travis-ci.org/henson/hosts.svg?branch=master)](https://travis-ci.org/henson/hosts)  [![GitHub release](https://img.shields.io/github/release/henson/hosts.svg)](https://github.com/henson/hosts/releases/tag/v1.0)
+[![Go Report Card](https://goreportcard.com/badge/github.com/henson/hosts)](https://goreportcard.com/report/github.com/henson/hosts)  [![Travis Status for henson/hosts](https://travis-ci.org/henson/hosts.svg?branch=master)](https://travis-ci.org/henson/hosts)  [![GitHub release](https://img.shields.io/github/release/henson/hosts.svg)](https://github.com/henson/hosts/releases/tag/v1.2.1)
 
 ![《取经》](1947422058.jpg)
 
